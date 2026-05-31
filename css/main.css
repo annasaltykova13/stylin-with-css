@@ -59,6 +59,8 @@ h1.page-header{
 /* Clean up paragraph spacing */
 .story-block p {
    margin-bottom: 15px;
+   text-align: justify;
+}
 
 
 /* start nav rules */
